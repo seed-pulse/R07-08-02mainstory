@@ -1,5 +1,5 @@
 # R07-08-02mainstory
-
+4:46
 masuyamakazuki@masuyamaMacBook-Pro ~ % nano intent_controller.py
 
 masuyamakazuki@masuyamaMacBook-Pro ~ % python intent_controller.py
